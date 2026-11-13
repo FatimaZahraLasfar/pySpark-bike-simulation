@@ -1,0 +1,18 @@
+# Virtual Environments
+sharedEnv/
+sparkEnv/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Spark generated files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS files
+.DS_Store
+Thumbs.db
